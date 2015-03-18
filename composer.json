@@ -24,5 +24,5 @@
             "Eloquent\\Dialect\\": "src/Dialect/"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
